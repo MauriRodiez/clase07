@@ -1,7 +1,0 @@
-hola kase
-<<<<<<< HEAD
-segunda modificacion
-terminada
-=======
-Tercera modificacion de la tarea.
->>>>>>> d6b7d6acef11904e2c761afd941caf1fdf430638
